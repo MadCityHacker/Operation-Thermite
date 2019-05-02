@@ -23,13 +23,19 @@ The below are switches that can be run with Thermite.
  
  `python3 thermite.py -p 80`
  
+ [![Example1.png](https://i.postimg.cc/s2xyp7b6/Example1.png)](https://postimg.cc/Jsf98DrZ)
+ 
  **Thermite w/ SSL Communcation**
  
  `python3 thermite.py -p 443 --usessl`
  
+ [![Example2.png](https://i.postimg.cc/SRFhF5R3/Example2.png)](https://postimg.cc/njk5q3vG)
+ 
  **Thermite w/ Compiled Client and IP Address via Command Line**
  
  `python3 thermite.py -p 80 -i 192.168.1.6 -c`
+ 
+ [![Example3.png](https://i.postimg.cc/VvqcYRb6/Example3.png)](https://postimg.cc/BPnzp2p9)
  
  BRIMSTONE Agent Interaction
  ---------------------------
