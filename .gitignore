@@ -1,0 +1,11 @@
+# PyCharm files
+.idea/*
+venv/*
+
+# Client files
+client/BRIMSTONE.py
+client/BRIMSTONE.exe
+
+# Cert files
+etc/cert.key
+etc/cert.pem
